@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Gopalakrishnan R
 
-<!--
-**KrishnanEce89/KrishnanEce89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final year B.E. Electronics and Communication student (2025)  
+💻 Passionate about Embedded Systems, Arduino, and Python  
+🌐 Exploring Web Development and IoT  
+📫 Reach me at: gopal89406@gmail.com  
+🚀 GitHub Projects: Arduino-based automation, Python scripts, IoT experiments
 
-Here are some ideas to get you started:
+🔧 Tech Stack:
+- Programming: C, Python, Embedded C
+- Boards: Arduino Uno, NodeMCU
+- Tools: Arduino IDE, Tinkercad, Proteus
+- Web: HTML, CSS, JS (basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Always learning and building 💫
